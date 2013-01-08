@@ -1,0 +1,14 @@
+{
+  "name": "key-emitter",
+  "version": "0.0.0",
+  "description": "emitter for key-strokes in the browser",
+  "dependencies": {
+    "eventemitter2": "0.4.11"
+    "key-table": "git://github.com/guybrush/key-table.git"
+  }
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
